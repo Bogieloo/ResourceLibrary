@@ -1,0 +1,10 @@
+name: ResourceLib
+version: '1.1'
+main: gq.arcstudio.resourceLib.ResourceLib
+api-version: '1.19'
+prefix: reslib
+load: STARTUP
+authors: [ Bogielo (bogv) ]
+description: A Library that allows you to add resources without setup!
+website: https://github.com/Bogieloo
+provides: [ResourceLibrary]
