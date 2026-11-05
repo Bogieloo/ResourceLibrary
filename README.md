@@ -58,5 +58,3 @@ public void onEnable() {
 - Enjoy!
 ***
 Made with ❤️ by devs for devs.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q3LZWWC)
